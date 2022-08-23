@@ -10,7 +10,12 @@ footer {
     color: white;
 }
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5
+
+ {
     text-align: center;
 }
 img {
@@ -31,11 +36,7 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px #8333ff;
-    box-shadow: 5px 10px #.card {
-        width: 80%;
-        margin: 40px auto;
-        border: 5px #8333FF;
-        box-shadow: 5px 10px #888888;
-      };
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+  }
   }
